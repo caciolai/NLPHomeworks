@@ -30,6 +30,12 @@ Check the homework [presentation](https://docs.google.com/presentation/d/1olD7Mt
 
 [Here](report/NLP-2020-HW2.pdf) is the report with the documentation of my model and the results it attains.
 
+## Resources used
+- [Google Colab](https://colab.research.google.com) - Development platform
+- [PyTorch](https://pytorch.org/) - Framework
+- [NLTK](https://www.nltk.org/) - Pre-trained POS tagger
+- [FastText](https://fasttext.cc/) - Pre-trained word embeddings
+- [BERT](https://github.com/huggingface/transformers) - Pre-trained BERT model for contextualized (semantic) word embeddings
 
 ## Authors
 
